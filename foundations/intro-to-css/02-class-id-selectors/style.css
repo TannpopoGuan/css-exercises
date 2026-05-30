@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.pink {
+    background-color: #ffb6c1;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pink.large {
+    font-size: 24px;
+}
+
+#number2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
